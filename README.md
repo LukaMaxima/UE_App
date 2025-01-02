@@ -49,31 +49,7 @@
 10. Open a command window. Easiest way is to hit the `Windows + S` keys, type `cmd` into the search bar and hit enter. Then copy and paste the following one by one:
 
 ```
-py -m pip install selenium==4.18.1
-pandas==2.2.1
-PyQt6==6.7.1
-tabula-py==2.9.0
-PyPDF2==3.0.1
-numpy==1.26.4
-jpype1
-```
-```
-py -m pip install pandas==2.2.1
-```
-```
-py -m pip install PyQt6==6.7.1
-```
-```
-py -m pip install tabula-py==2.9.0
-```
-```
-py -m pip install PyPDF2==3.0.1
-```
-```
-py -m pip install numpy==1.26.4
-```
-```
-py -m pip install jpype1
+py -m pip install selenium==4.18.1; pandas==2.2.1; PyQt6==6.7.1; tabula-py==2.9.0; PyPDF2==3.0.1; numpy==1.26.4; jpype1;
 ```
 
 
