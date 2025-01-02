@@ -51,12 +51,24 @@
 ```
 py -m pip install selenium==4.18.1
 ```
-- py -m pip install pandas==2.2.1
-- py -m pip install PyQt6==6.7.1
-- py -m pip install tabula-py==2.9.0
-- py -m pip install PyPDF2==3.0.1
-- py -m pip install numpy==1.26.4
-- py -m pip install jpype1
+```
+py -m pip install pandas==2.2.1
+```
+```
+py -m pip install PyQt6==6.7.1
+```
+```
+py -m pip install tabula-py==2.9.0
+```
+```
+py -m pip install PyPDF2==3.0.1
+```
+```
+py -m pip install numpy==1.26.4
+```
+```
+py -m pip install jpype1
+```
 
 
 ---
