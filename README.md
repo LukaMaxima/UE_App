@@ -34,12 +34,15 @@
 
 ---
 
-### Python Packages - Automated Approach
+### Python Packages Installation
 
-7. The app requires a handful of Python packages to run. These are listed in `requirements.txt`. To install them automated:
-   - Navigate to where you unzipped the files. Right-click the `Install Python Packages.ps1` file and select **Run with PowerShell**.
+7. The app requires a handful of Python packages to run. These are listed in `requirements.txt`. There are two ways to install these, automated and manual. The install of these packages may take some time and there may be some pauses - just let it run. If at any time it says “requirement already satisfied,” this is totally fine. Sometimes Python packages have already installed other dependencies.
 
-8. This process may take some time. If at any time it says “requirement already satisfied,” this is totally fine. Sometimes Python packages have already installed other dependencies.
+#### Method 1 - Automated Install
+
+8. Navigate to where you unzipped the files. Right-click the `Install Python Packages.ps1` file and select **Run with PowerShell**.
+
+9. If this window closes 
 
 ---
 
