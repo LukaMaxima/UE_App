@@ -16,7 +16,7 @@
 
 ### Download & Unzip
 
-3. Download the `zip` file by clicking the green `Code` button and selecting `download zip`. Once downloaded, right-click the .zip file and extract it to where you want it to be (I just run mine from my desktop.)
+3. Download the `zip` file by clicking the green `Code` button at the top of this page and select `download zip`. Once downloaded, right-click the .zip file and extract it to where you want it to be (I just run mine from my desktop.)
 
 ---
 
