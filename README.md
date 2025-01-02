@@ -1,4 +1,4 @@
-# Ultimate Europe - Companion App: README v0.4
+# Ultimate Europe - Companion App: README
 
 ## Scope
 
@@ -26,7 +26,7 @@ To run the app, you will need to ensure a number of software packages are instal
 
 #### Python
 
-6. Python 64-bit for Windows. This was developed and tested on Python version 3.12.2, available here:  
+4. Python 64-bit for Windows. This was developed and tested on Python version 3.12.2, available here:  
    [Download Python 3.12.2 (64-bit)](https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe)
 
 #### Java
