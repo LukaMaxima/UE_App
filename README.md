@@ -22,26 +22,24 @@
 
 ### Installation Requirements
 
-To run the app, you will need to ensure a number of software packages are installed on your machine, as follows:
+4. To run the app, you will need to ensure a number of software packages are installed on your machine, as follows:
 
-#### Python
+#### Python 64-bit for Windows. 
 
-4. Python 64-bit for Windows. This was developed and tested on Python version 3.12.2, available here:  
-   [Download Python 3.12.2 (64-bit)](https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe)
+5. This app was developed and tested on Python version 3.12.2, available here: [Download Python 3.12.2 (64-bit)](https://www.python.org/ftp/python/3.12.2/python-3.12.2-amd64.exe)
 
-#### Java
+#### Java 64-bit for Windows. 
 
-7. Java 64-bit for Windows. This was developed and tested on Java version 1.8.0_401, available here:  
-   [Download Java](https://www.java.com/en/download/)
+6. This was developed and tested on Java version 1.8.0_401, but the latest should work just fine (tested and working on Win 11), available here: [Download Java](https://www.java.com/en/download/)
 
 ---
 
-### Python Packages
+### Python Packages - Automated Approach
 
-8. The app requires a handful of Python packages to run. These are listed in `requirements.txt`. To install them:
-   - Right-click the `Install Python Packages.ps1` file and select **Run with PowerShell**.
+7. The app requires a handful of Python packages to run. These are listed in `requirements.txt`. To install them automated:
+   - Navigate to where you unzipped the files. Right-click the `Install Python Packages.ps1` file and select **Run with PowerShell**.
 
-9. This process may take some time. If at any time it says “requirement already satisfied,” this is totally fine. Sometimes Python packages have already installed other dependencies.
+8. This process may take some time. If at any time it says “requirement already satisfied,” this is totally fine. Sometimes Python packages have already installed other dependencies.
 
 ---
 
