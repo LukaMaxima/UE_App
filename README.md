@@ -30,7 +30,7 @@
 
 #### Java 64-bit for Windows. 
 
-6. This was developed and tested on Java version 1.8.0_401, but the latest should work just fine (tested and working on Win 11), available here: [Download Java](https://www.java.com/en/download/)
+6. This was developed and tested on Java version 1.8.0_401, but the latest should work just fine (tested and working on Win 10 and Win 11), available here: [Download Java](https://www.java.com/en/download/)
 
 ---
 
