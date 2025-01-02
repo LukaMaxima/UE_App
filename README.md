@@ -46,7 +46,7 @@
 
 #### Method 2 - Manual Install
 
-10. Open a command window. Easiest way is to hit the `Windows + S` keys, type `cmd` into the search bar and hit enter. Then copy and paste the following one by one:
+10. Open a command window. Easiest way is to hit the `Windows + S` keys, type `cmd` into the search bar and hit enter. Then copy and paste the following:
 
 ```
 py -m pip install selenium==4.18.1; pandas==2.2.1; PyQt6==6.7.1; tabula-py==2.9.0; PyPDF2==3.0.1; numpy==1.26.4; jpype1;
