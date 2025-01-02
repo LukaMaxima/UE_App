@@ -48,7 +48,9 @@
 
 10. Open a command window. Easiest way is to hit the `Windows + S` keys, type `cmd` into the search bar and hit enter. Then copy and paste the following one by one:
 
-- py -m pip install selenium==4.18.1
+```
+py -m pip install selenium==4.18.1
+```
 - py -m pip install pandas==2.2.1
 - py -m pip install PyQt6==6.7.1
 - py -m pip install tabula-py==2.9.0
