@@ -42,13 +42,26 @@
 
 8. Navigate to where you unzipped the files. Right-click the `Install Python Packages.ps1` file and select **Run with PowerShell**.
 
-9. If this window closes 
+9. If this window closes unexpectedly or without completion, it's likely Windows Defender is blocking the Powershell script from running. To circumvent this, you'll need to do a manual install.
+
+#### Method 2 - Manual Install
+
+10. Open a command window. Easiest way is to hit the `Windows + S` keys, type `cmd` into the search bar and hit enter. Then copy and paste the following one by one:
+
+- py -m pip install selenium==4.18.1
+- py -m pip install pandas==2.2.1
+- py -m pip install PyQt6==6.7.1
+- py -m pip install tabula-py==2.9.0
+- py -m pip install PyPDF2==3.0.1
+- py -m pip install numpy==1.26.4
+- py -m pip install jpype1
+
 
 ---
 
 ### Firefox and Chrome
 
-10. The scripts will use both Firefox and Chrome. Both must be installed for the code to work correctly. If you already have them installed, you can skip this section.
+11. The scripts will use both Firefox and Chrome. Both must be installed for the code to work correctly. If you already have them installed, you can skip this section.
 
    - [Download Firefox](https://www.mozilla.org/en-GB/firefox/windows/)  
    - [Download Chrome](https://www.google.com/intl/en_uk/chrome/)  
